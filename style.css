@@ -45,3 +45,36 @@ ul li{
     padding: 10px;
     border-radius: 4px;
 }
+
+a{
+    text-decoration: none;
+    color: #3d546b;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: #216686;
+}
+
+#btn-saludar{
+    margin-top: 12px;
+    padding: 10px 24px;
+    background-color: #a9d1ec;
+    color: #4c4c50;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1em;
+}
+#btn-saludar:hover{
+    background-color: #3d546b;
+    color: aliceblue;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #3d546b;
+    font-size: 0.8em;
+    color: #a9d1ec;
+}
